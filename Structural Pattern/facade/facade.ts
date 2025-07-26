@@ -1,17 +1,19 @@
-import { TDVDPlayer, TProjector, TheaterLights } from "./SubSystemClasses";
+import { TDVDPlayer, TProjector, TTheaterLights } from "./SubSystemClasses";
 
 // Facade Class
 export class HomeTheaterFacade {
+
     dvd: TDVDPlayer;
     projector: TProjector;
-    lights: TheaterLights;
-    constructor(dvd: TDVDPlayer, projector: TProjector, lights: TheaterLights) {
+    lights: TTheaterLights;
+
+    constructor(dvd: TDVDPlayer, projector: TProjector, lights: TTheaterLights) {
         this.dvd = dvd;
         this.projector = projector;
         this.lights = lights;
     }
 
-    watchMovie(movie) {
+    watchMovie(movie: string) {
         console.log("\n🎬 Get ready to watch a movie...");
         this.lights.dim();
         this.projector.on();
