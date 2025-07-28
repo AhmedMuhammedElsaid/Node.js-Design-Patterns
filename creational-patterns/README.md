@@ -34,7 +34,7 @@ creational-patterns/
 │   └── ...
 ├── Singleton/
 │   └── ...
-└── README.md
+└── README.md <-- You are here!
 
 ✅ Goals
 Provide real-world analogies and simple code examples.
