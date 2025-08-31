@@ -1,4 +1,4 @@
-# 🎯 Design Patterns in Software Engineering
+# 🎯 Design Patterns in Software Engineering.
 
 Welcome to the **Design Patterns** repository! This project contains categorized implementations of the most commonly used **object-oriented design patterns**, each explained with examples and clean code.
 
