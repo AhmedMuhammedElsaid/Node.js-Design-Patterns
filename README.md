@@ -38,7 +38,7 @@ Welcome to the **Design Patterns** repository! This project contains categorized
 
 📁 Folder: [`structural-patterns/`](./structural-patterns/)
 
----
+------------------------
 
 ## 📁 Folder Structure
 
