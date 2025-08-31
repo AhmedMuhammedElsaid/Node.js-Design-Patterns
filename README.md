@@ -4,7 +4,7 @@ Welcome to the **Design Patterns** repository! This project contains categorized
 
 > 🧠 **Design patterns** are tried-and-true solutions to common problems in software design. They promote code reusability, scalability, and maintainability.
 
----
+----------------------
 
 ## 🧱 Categories Covered.
 
