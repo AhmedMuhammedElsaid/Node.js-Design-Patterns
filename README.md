@@ -21,7 +21,7 @@ Welcome to the **Design Patterns** repository! This project contains categorized
 
 📁 Folder: [`creational-patterns/`](./creational-patterns/)
 
----
+------------------------
 
 ### 🧱 2. [Structural Patterns](./structural-patterns/)
 > Concerned with the **structure** of classes and objects—how they are composed to form larger systems.
