@@ -74,6 +74,8 @@ design-patterns/
 
 ## 📌 How to Use
 
+------------------------
+
 Browse each folder for individual pattern explanations and code examples.
 
 ```bash
