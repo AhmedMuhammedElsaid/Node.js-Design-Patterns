@@ -62,7 +62,7 @@ design-patterns/
 │ └── README.md
 └── README.md <-- You are here!
 
----
+------------------------
 
 ## ✅ Project Goals
 
