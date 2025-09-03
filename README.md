@@ -70,7 +70,7 @@ design-patterns/
 - ⚙️ **Practical**: Provide real-world-style code examples in an easy-to-digest format.
 - 🌐 **Extensible**: Support multiple programming languages (starting with JavaScript).
 
----
+----------------------
 
 ## 📌 How to Use
 
