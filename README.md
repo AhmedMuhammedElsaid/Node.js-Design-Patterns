@@ -40,7 +40,7 @@ Welcome to the **Design Patterns** repository! This project contains categorized
 
 ------------------------
 
-## 📁 Folder Structure
+## 📁 Folder Structure.
 
 design-patterns/
 ├── creational-patterns/
