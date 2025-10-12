@@ -64,7 +64,7 @@ design-patterns/
 
 ------------------------
 
-## ✅ Project Goals
+## ✅ Project Goals.
 
 - 📚 **Educational**: Help developers understand key OOP design patterns.
 - ⚙️ **Practical**: Provide real-world-style code examples in an easy-to-digest format.
