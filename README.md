@@ -80,4 +80,4 @@ Browse each folder for individual pattern explanations and code examples.
 
 ```bash
 cd creational-patterns/Singleton
-# run or open the code in your preferred environment
+# run or open the code in your preferred environment.
