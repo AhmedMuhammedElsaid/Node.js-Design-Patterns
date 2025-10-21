@@ -2,7 +2,7 @@
 
 Welcome to the **Design Patterns** repository! This project contains categorized implementations of the most commonly used **object-oriented design patterns**, each explained with examples and clean code.
 
-> 🧠 **Design patterns** are tried-and-true solutions to common problems in software design. They promote code reusability, scalability, and maintainability.
+> 🧠 **Design patterns** are tried-and-true solutions to common problems in software design. They promote code reusability, scalability, and maintainability..
 
 ----------------------
 
