@@ -6,7 +6,7 @@ Welcome to the **Design Patterns** repository! This project contains categorized
 
 ----------------------
 
-## 🧱 Categories Covered..
+## 🧱 Categories Covered.
 
 ### 🔨 1. [Creational Patterns](./creational-patterns/)
 > Focus on the **creation of objects**, abstracting the instantiation process.
